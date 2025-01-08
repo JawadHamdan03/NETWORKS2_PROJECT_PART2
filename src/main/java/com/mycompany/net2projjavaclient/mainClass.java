@@ -5,10 +5,10 @@
 
 package com.mycompany.net2projjavaclient;
 
-public class NET2ProjJAVACLIENT {
+public class mainClass {
 
     public static void main(String[] args) {
         com.formdev.flatlaf.themes.FlatMacDarkLaf.setup();
-        new MainPHPs().setVisible(true);
+        new MainFrame().setVisible(true);
     }
 }
